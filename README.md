@@ -24,24 +24,18 @@ My core interest is AI alignment — specifically how we evaluate, steer, and un
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=justinwen4&show_icons=true&theme=transparent&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=justinwen4&show_icons=true&theme=default&hide_border=true" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=justinwen4&layout=compact&theme=transparent&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinwen4&layout=compact&theme=default&hide_border=true" height="165" />
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=justinwen4&theme=github-compact&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinwen4&theme=github-compact&hide_border=true" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/justinwen4/justinwen4/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/justinwen4/justinwen4/output/github-snake.svg" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=justinwen4&layout=compact&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinwen4&layout=compact&theme=default&hide_border=true" height="165" />
   </picture>
 </p>
-
 ---
 
 ## Skills
