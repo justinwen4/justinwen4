@@ -24,7 +24,7 @@ My core interest is AI alignment — specifically how we evaluate, steer, and un
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      github-readme-activity-graph.vercel.app/graph?username=justinwen4&theme=github-compact&hide_border=true&bg_color=00000000&days=183" />
+      ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinwen4&theme=github" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinwen4&theme=github-compact&hide_border=true" width="100%" />
   </picture>
 </p>
