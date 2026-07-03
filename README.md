@@ -5,17 +5,9 @@
 
 CS + Statistics @ Duke · AI/ML research & engineering · Houston, TX / Durham, NC
 
-I build ML systems — from prompt optimization frameworks at a YC startup to production healthcare AI deployed at a clinic. Outside of work, I run [DebateAI](https://debateai.dev), a free AI debate assistant used by students across eight debate organizations.
+I build ML systems — from prompt optimization frameworks at a YC startup to production healthcare AI deployed at clinics. I also run [DebateAI](https://debateai.dev), a free AI debate assistant used by students across 8+ debate organizations.
 
 My core interest is AI alignment — specifically how we evaluate, steer, and understand what LLMs are actually doing.
-
----
-
-## Currently
-
-- **Lucidic AI (YC W25)** — improving GEPA, a Genetic-Pareto prompt optimization system built on DSPy
-- **MedArise** — production prior auth AI system deployed at a major clinic
-- **DebateAI** — RAG over 1,000+ debate analytics, partnered with 8 orgs, free at [debateai.dev](https://debateai.dev)
 
 ---
 
