@@ -5,9 +5,11 @@
 
 CS + Statistics @ Duke · AI/ML research & engineering · Houston, TX / Durham, NC
 
-I build ML systems — from prompt optimization frameworks at a YC startup to production healthcare AI deployed at clinics. I also run [DebateAI](https://debateai.dev), a free AI debate assistant used by students across 8+ debate organizations.
+I am currently a research fellow at SPAR (Supervised Program for Alignment Research) extending multi-agent science. 
 
-My core interest is AI alignment — specifically how we evaluate, steer, and understand what LLMs are actually doing.
+Previously, I've worked on DSPy GEPA (an automatic, reflective prompt optimizer) at Lucidic AI (YC W25), as well as healthcare AI for clinics. I also operate [DebateAI](https://debateai.dev), a free AI debate assistant used by hundreds of students across the country.
+
+My core interest is AI alignment. Specifically, how we evaluate, steer, and understand what LLMs are actually doing.
 
 ---
 
@@ -27,6 +29,7 @@ My core interest is AI alignment — specifically how we evaluate, steer, and un
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinwen4&layout=compact&theme=default&hide_border=true" height="165" />
   </picture>
 </p>
+
 ---
 
 ## Skills
