@@ -5,11 +5,11 @@
 
 CS @ Duke · AI/ML research & engineering · Houston, TX / Durham, NC
 
-I am currently a research fellow at SPAR (the Supervised Program for Alignment Research), where I'm working on extending multi-agent science. 
+I am currently a research fellow at [SPAR] (https://sparai.org/), where I'm working on extending multi-agent science. 
 
 Previously, I've worked on extending DSPy GEPA (an automatic, reflective prompt optimizer) at Lucidic AI (YC W25), as well as healthcare AI for clinics. I also operate [DebateAI](https://debateai.dev), a free AI debate assistant used by hundreds of students across the country.
 
-My core interest is AI alignment, specifically how we evaluate, steer, and understand what LLMs are actually doing. I'm also quite interested in effective altruism, philosophy, and theology. In my free time, I enjoy reading and writing on Substack (https://substack.com/@justinwen).
+My core interest is AI alignment, specifically how we evaluate, steer, and understand what LLMs are actually doing. I'm also quite interested in effective altruism, philosophy, and theology. In my free time, I enjoy reading and writing on [Substack] (https://substack.com/@justinwen).
 
 ---
 
